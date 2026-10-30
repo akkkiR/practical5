@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">practical5</string>
+    <string name="app_name">Chinese Municipalities</string>
+    <string name="main_title">Municipalities in China</string>
+    <string name="label_municipality">I want to know about:</string>
+    <string name="hint_municipality">name of a municipality</string>
+    <string name="invalid_municipality">Please enter Beijing, Shanghai, Tianjin, or Chongqing.</string>
+    <string name="missing_municipality">No valid municipality was provided.</string>
+    <string name="visit_site">Visit site</string>
+    <string name="no_browser">No app is available to open this website.</string>
+    <string name="main_image_description">Map showing Chinese municipalities</string>
+    <string name="municipality_image_description">Image of the selected municipality</string>
 </resources>
